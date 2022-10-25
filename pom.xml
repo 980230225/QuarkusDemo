@@ -53,6 +53,8 @@
         <groupId>${quarkus.platform.group-id}</groupId>
         <artifactId>quarkus-maven-plugin</artifactId>
         <version>${quarkus.platform.version}</version>
+<!--                <version>2.10.0.Final</version>-->
+
         <extensions>true</extensions>
         <executions>
           <execution>
