@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa7643d-6796-49bd-bdf0-35dc0745fd2d" name="Changes" comment="QuakusDemo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="7fa7643d-6796-49bd-bdf0-35dc0745fd2d" name="Changes" comment="QuakusDemo yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,7 @@
       <updated>1690173359756</updated>
       <workItem from="1690173361147" duration="2466000" />
       <workItem from="1690186391057" duration="644000" />
-      <workItem from="1690262430218" duration="770000" />
+      <workItem from="1690262430218" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="QuakusDemo">
       <created>1690262801805</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690262921663</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="QuakusDemo yml">
+      <created>1690263235350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690263235350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QuakusDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="QuakusDemo" />
+    <MESSAGE value="QuakusDemo yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuakusDemo yml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
