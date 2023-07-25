@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa7643d-6796-49bd-bdf0-35dc0745fd2d" name="Changes" comment="QuakusDemo yml" />
+    <list default="true" id="7fa7643d-6796-49bd-bdf0-35dc0745fd2d" name="Changes" comment="QuakusDemo yml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,7 @@
       <updated>1690173359756</updated>
       <workItem from="1690173361147" duration="2466000" />
       <workItem from="1690186391057" duration="644000" />
-      <workItem from="1690262430218" duration="1105000" />
+      <workItem from="1690262430218" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="QuakusDemo">
       <created>1690262801805</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690263235350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="QuakusDemo yml">
+      <created>1690267972292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690267972292</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
