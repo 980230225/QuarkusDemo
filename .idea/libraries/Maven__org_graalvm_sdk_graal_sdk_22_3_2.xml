@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.graalvm.sdk:graal-sdk:22.3.2">
+    <CLASSES>
+      <root url="jar:///Library/Maven/apache-maven-3.9.3/repository/org/graalvm/sdk/graal-sdk/22.3.2/graal-sdk-22.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///Library/Maven/apache-maven-3.9.3/repository/org/graalvm/sdk/graal-sdk/22.3.2/graal-sdk-22.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///Library/Maven/apache-maven-3.9.3/repository/org/graalvm/sdk/graal-sdk/22.3.2/graal-sdk-22.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
