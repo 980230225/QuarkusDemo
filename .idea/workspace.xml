@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa7643d-6796-49bd-bdf0-35dc0745fd2d" name="Changes" comment="QuakusDemo yml">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shida/ExampleResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shida/ExampleResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +17,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "980230225"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;980230225&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -41,14 +43,13 @@
         <option name="localRepository" value="/Library/maven/dir" />
         <option name="mavenHome" value="/Library/maven" />
         <option name="userSettingsFile" value="/Library/maven/conf/settings.xml" />
-        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2T0I1a4w82LYilN3sXmIu9xGqEn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,45 +57,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="QuarkusDemo" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+    <configuration name="QuarkusDemo" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration">
       <module name="QuarkusDemo" />
-      <QsMavenRunConfiguration>
-        <MavenSettings>
-          <option name="myGeneralSettings" />
-          <option name="myRunnerSettings" />
-          <option name="myRunnerParameters">
-            <MavenRunnerParameters>
-              <option name="profiles">
-                <set />
-              </option>
-              <option name="goals">
-                <list>
-                  <option value="quarkus:dev" />
-                </list>
-              </option>
-              <option name="pomFileName" value="pom.xml" />
-              <option name="profilesMap">
-                <map />
-              </option>
-              <option name="resolveToWorkspace" value="false" />
-              <option name="workingDirPath" value="$PROJECT_DIR$" />
-            </MavenRunnerParameters>
-          </option>
-        </MavenSettings>
-        <targetMavenLocalRepo />
-      </QsMavenRunConfiguration>
+      <option name="profile" value="--native" />
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+        <option name="LaunchBrowser.Before.Run" browser="e5120d43-2c3f-47ef-9f26-65e539e05186" url="http://localhost:8080/" />
       </method>
     </configuration>
   </component>
@@ -138,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690267972292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="QuakusDemo yml">
+      <option name="closed" value="true" />
+      <created>1691938484217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691938484217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
